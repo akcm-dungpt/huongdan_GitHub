@@ -5,3 +5,13 @@ System.out.println("hello world");
 hello
 
 </script>
+
+
+// Sửa lại nội dung code bên dưới. chưa có logic
+<script>
+System.out.println("hello world");
+
+hello
+
+</script>
+
