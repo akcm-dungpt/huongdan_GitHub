@@ -6,4 +6,4 @@ hello
 
 </script>
 
-echo "Test branch";
+echo "Commit Branches tháng 12";
