@@ -1,9 +1,1 @@
-// Sửa lại nội dung code bên dưới. chưa có logic
-<script>
-System.out.println("hello world");
-
-hello
-
-</script>
-
-echo "Commit Branches tháng 12";
+-- Cách tạo Pull Request từ localhost
