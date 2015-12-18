@@ -1,0 +1,20 @@
+The following changes since commit dba674e55ad24176016a9fecf0cc879c51637e50:
+
+  Merge pull request #3 from akcm-dungpt/new_branch (2015-12-09 11:43:39 +0700)
+
+are available in the git repository at:
+
+  git@github.com:akcm-dungpt/huongdan_GitHub.git branche_1
+
+for you to fetch changes up to 19da10de25e574ec72b705a504beab579d560b71:
+
+  Merge branch 'branche_1' of github.com:akcm-dungpt/huongdan_GitHub into branche_1 (2015-12-18 10:23:42 +0700)
+
+----------------------------------------------------------------
+akcm-dungpt (2):
+      Add file moi
+      Merge branch 'branche_1' of github.com:akcm-dungpt/huongdan_GitHub into branche_1
+
+ dungPT_demo.txt | 17 +++++++++++++++++
+ 1 file changed, 17 insertions(+)
+ create mode 100644 dungPT_demo.txt
