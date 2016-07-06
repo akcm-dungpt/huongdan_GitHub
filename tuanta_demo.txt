@@ -1,7 +1,3 @@
-// Sửa lại nội dung code bên dưới. chưa có logic
-<script>
-System.out.println("hello world");
-
-hello
-
-</script>
+// #AK-72
+code
+// #AK-72
