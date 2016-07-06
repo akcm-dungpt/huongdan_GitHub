@@ -1,2 +1,0 @@
--- Cách tạo Pull Request từ localhost
-Bước 1:
