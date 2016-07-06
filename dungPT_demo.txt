@@ -1,17 +1,3 @@
-// Sửa lại nội dung code bên dưới. chưa có logic
-<script>
-System.out.println("hello world");
-
-hello
-
-</script>
-
-
-// Sửa lại nội dung code bên dưới. chưa có logic
-<script>
-System.out.println("hello world");
-
-hello
-
-</script>
-
+-- Cách tạo Pull Request từ localhost
+Bước 1:
+Bước 2:
